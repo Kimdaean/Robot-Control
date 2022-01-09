@@ -1,0 +1,7 @@
+print("hello world")
+print(1)
+print(1.2)
+print('hello')
+print(0b10)
+print(0o10)
+print(0x10)
